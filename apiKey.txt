@@ -1,0 +1,6 @@
+f8ce2c8eba7b17ce709631921bc30f64
+
+
+url needed
+
+http://api.openweathermap.org/data/2.5/forecast/daily?APPID=f8ce2c8eba7b17ce709631921bc30f64
